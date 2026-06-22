@@ -5,13 +5,16 @@ This project analyzes PhonePe digital payment transaction data across Indian sta
 Using Python, Pandas, Matplotlib, and Seaborn, the analysis combines transaction, user, device, and demographic datasets to generate business insights and actionable recommendations for market expansion and user growth.
 
 Tools & Technologies
+
 Python
 Pandas
 NumPy
 Matplotlib
 Seaborn
 Jupyter Notebook
+
 Datasets Used
+
 State Transactions & Users
 State Transaction Split
 State Device Data
